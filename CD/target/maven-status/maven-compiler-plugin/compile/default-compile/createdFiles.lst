@@ -1,0 +1,17 @@
+com\agdatabase\DatabaseFile.class
+com\agdatabase\DatabaseConfig$Builder.class
+com\agdatabase\DatabaseDuplicateKeyException.class
+com\agdatabase\DatabaseClosedException.class
+com\agdatabase\DatabaseLockedException.class
+com\agdatabase\DatabaseCorruptFileException.class
+com\agdatabase\DatabaseException.class
+com\database\Main.class
+com\agdatabase\DatabaseFile$EncryptedSnapshot.class
+com\agdatabase\DatabaseKeyNotFoundException.class
+com\agdatabase\DatabaseCryptoException.class
+com\agdatabase\Database.class
+com\agdatabase\DatabaseSerializer.class
+com\agdatabase\DatabaseValidator.class
+com\agdatabase\DatabaseSerializationException.class
+com\agdatabase\DatabaseConfig.class
+com\agdatabase\DatabaseCrypto.class
