@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.agdatabase.DatabaseTest" time="0.786" tests="18" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Java\CD\target\test-classes;D:\Java\CD\target\classes;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\AHEM\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\AHEM\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\AHEM\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\AHEM\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25\bin"/>
+    <property name="sun.java.command" value="C:\Users\AHEM\AppData\Local\Temp\surefire14166357723001212657\surefirebooter-20261009083615140_3.jar C:\Users\AHEM\AppData\Local\Temp\surefire14166357723001212657 2026-10-09T08-36-13_429-jvmRun1 surefire-20261009083615140_1tmp surefire_0-20261009083615140_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Java\CD\target\test-classes;D:\Java\CD\target\classes;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\AHEM\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\AHEM\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\AHEM\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\AHEM\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\AHEM\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\AHEM"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-25"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Java\CD"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\AHEM\AppData\Local\Temp\surefire14166357723001212657\surefirebooter-20261009083615140_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="25.0.1+8-LTS-27"/>
+    <property name="user.name" value="AHEM"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\AHEM\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AHEM\AppData\Local\Temp\"/>
+    <property name="java.version" value="25.0.1"/>
+    <property name="user.dir" value="D:\Java\CD"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/AHEM/.gemini/antigravity/bin;C:\Users\AHEM\AppData\Roaming\Antigravity\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Go\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\AHEM\AppData\Local\MongoDBCompass;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Perforce\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-25\bin;C:\Program Files\playit_gg\bin\;C:\Program Files\apache-maven-3.9.12-bin\apache-maven-3.9.12\bin;C:\Users\AHEM\.local\bin;C:\msys64\mingw64\bin;C:\caddy;C:\ffmpeg\ffmpeg-2026-04-26-git-4867d251ad-essentials_build\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Users\AHEM\scoop\apps\gcc\current\bin;C:\Users\AHEM\scoop\shims;C:\Users\AHEM\.jbang\bin;C:\Users\AHEM\.local\bin;C:\Users\AHEM\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\AHEM\AppData\Local\Programs\Python\Python313\;C:\Users\AHEM\AppData\Local\Microsoft\WindowsApps;C:\Users\AHEM\AppData\Local\GitHubDesktop\bin;C:\Users\AHEM\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\AHEM\go\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.3\bin;C:\Program Files\apache-maven-3.9.12-bin\apache-maven-3.9.12\bin;C:\Users\AHEM\AppData\Local\Programs\Ollama;C:\Users\AHEM\.dotnet\tools;C:\Program Files\PostgreSQL\18\bin;C:\Users\AHEM\AppData\Local\Microsoft\WindowsApps;C:\Users\AHEM\AppData\Local\cursor-agent;C:\Users\AHEM\AppData\Roaming\npm;C:\Users\AHEM\AppData\Local\Unity\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.0.1+8-LTS-27"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="testLargeValues" classname="com.agdatabase.DatabaseTest" time="0.394"/>
+  <testcase name="testDuplicateKeyThrowsException" classname="com.agdatabase.DatabaseTest" time="0.024"/>
+  <testcase name="testCorruptedMagicBytesDetection" classname="com.agdatabase.DatabaseTest" time="0.025"/>
+  <testcase name="testTamperedFileDetection" classname="com.agdatabase.DatabaseTest" time="0.027"/>
+  <testcase name="testFileLockingPreventsConcurrentAccess" classname="com.agdatabase.DatabaseTest" time="0.008"/>
+  <testcase name="testUnsupportedDataTypeThrowsException" classname="com.agdatabase.DatabaseTest" time="0.007"/>
+  <testcase name="testAutoSaveFeature" classname="com.agdatabase.DatabaseTest" time="0.022"/>
+  <testcase name="testDefensiveCopies" classname="com.agdatabase.DatabaseTest" time="0.015"/>
+  <testcase name="testReloadDiscardsUnsavedModifications" classname="com.agdatabase.DatabaseTest" time="0.019"/>
+  <testcase name="testAllSupportedDataTypes" classname="com.agdatabase.DatabaseTest" time="0.026"/>
+  <testcase name="testWrongPasswordThrowsCryptoException" classname="com.agdatabase.DatabaseTest" time="0.02"/>
+  <testcase name="testOperationOnClosedDatabaseThrows" classname="com.agdatabase.DatabaseTest" time="0.017"/>
+  <testcase name="testCharArrayPassword" classname="com.agdatabase.DatabaseTest" time="0.02"/>
+  <testcase name="testUpdateMissingKeyThrowsException" classname="com.agdatabase.DatabaseTest" time="0.006"/>
+  <testcase name="testNullKeyRejection" classname="com.agdatabase.DatabaseTest" time="0.006"/>
+  <testcase name="testSaveAndReopenPersistence" classname="com.agdatabase.DatabaseTest" time="0.035"/>
+  <testcase name="testEmptyDatabasePersistence" classname="com.agdatabase.DatabaseTest" time="0.034"/>
+  <testcase name="testCreateAndBasicCRUD" classname="com.agdatabase.DatabaseTest" time="0.014"/>
+</testsuite>
